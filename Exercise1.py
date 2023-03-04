@@ -6,4 +6,4 @@ print("coloque el radio")
 radio=float(input())
 #Obtener el valor de pi
 pi=math.pi
-print("valor de PI",pi)
+print("valor de PI =",pi)
